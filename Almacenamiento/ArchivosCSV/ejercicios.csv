@@ -1,0 +1,5 @@
+#Titulo,Descripcion,Puntos,Dificultad,CaloriasQuemadas,Etiquetas,Duracion,ID
+Trotar Lento,Trote suave,Cardio:$30$Flexibilidad:$0$Resistencia:$20$Fuerza:$0$,baja,20,Cardio,15,0
+Trotar Rapido,Trote fuerte,Cardio:$40$Flexibilidad:$0$Resistencia:$30$Fuerza:$0$,baja,40,Cardio,5,1
+Press de pecho,"recostarse en un banco plano, leavantando las mancuarnas o barra ",Cardio:$20$Flexibilidad:$15$Resistencia:$40$Fuerza:$30$,media,50,Resistencia,20,2
+Sentadiila,"Flexionar las rodillar hasta hacer un angulo un poco menor a 90 grados, entre las pantorrilas y los isquiotibiales",Cardio:$10$Flexibilidad:$40$Resistencia:$10$Fuerza:$10$,media,20,Flexibilidad,10,3
